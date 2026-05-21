@@ -1,4 +1,4 @@
 # Insta-Like
 Projeto desenvolvido na imersão back-end disponibilizada pela Alura
 
-<img src="https://github.com/arthurlelles/Insta-Like/blob/29493a7d0df7ae661402dd324d8a1e9e477213c7/Back-End.pdf" alt="Descrição da imagem" width="500"/>
+[![Certificado Alura - Imersão Dev Back-End](certificado-backend.png)](https://github.com/arthurlelles/Insta-Like/blob/dfa0aabbb2b918a6f0469ff527523540e4d34257/image.png)
